@@ -4,6 +4,13 @@
 
 ## Quick start
 
+### On Google Colab
+
+Just run quickstart.ipynb on Google Colab.   
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yutaka-shoji/micsann/blob/main/quickstart.ipynb)
+
+### Local Install
+
 Download this repository.
 
 Git users may also clone this repository with the following command:

@@ -33,7 +33,8 @@ def main():
 # visualize
 def plot_Theta_Fo(Fo_rc, Pe_rc, phi, R, Theta):
     plt.rcParams['font.size'] = 12
-    plt.rcParams['font.family'] = 'Times New Roman'
+    plt.rcParams['font.family'] = 'serif'
+    plt.rcParams['font.serif'] = 'Times New Roman'
     plt.rcParams["mathtext.fontset"] = "stix"
 
     fig = plt.figure(figsize=(5,4), tight_layout=True)
