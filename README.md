@@ -48,5 +48,5 @@ Resulted Figure
 
 ## Citations
 
-The article related to the MICS-ANN model is submitted to the [*International Journal of Heat and Mass Transfer*].
+The article related to the MICS-ANN model is submitted to the *International Journal of Heat and Mass Transfer*.
 Now under review.
