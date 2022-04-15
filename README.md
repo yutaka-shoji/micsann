@@ -48,4 +48,5 @@ Resulted Figure
 
 ## Citations
 
-The article related to the MICS-ANN model is now under review.
+For a detailed description of the MICS-ANN model, please refer to the following journal article.
+> Shoji, Y., Katsura, T., Nagano, K., 2022. MICS-ANN model: An artificial neural network model for fast computation of G-function in moving infinite cylindrical source model. Geothermics 100, 102315–102315. https://doi.org/10.1016/j.geothermics.2021.102315
